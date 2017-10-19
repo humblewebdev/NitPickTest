@@ -1,12 +1,17 @@
 <?php
 if(true)
+
 {
-   $BadBadBad = 'blah';
+
+   $Bad_Bad_Bad = 'blah';
+
 }
 
 for($i=0; $i<10; $i++)
 {
+
     $bad_Again += $i;
+
 }
 
 ?>
